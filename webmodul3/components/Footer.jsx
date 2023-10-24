@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>&copy; 2023 Simple Website</p>
-      <p>Arsyaq</p>
+      <p>Azrul</p>
     </footer>
   );
 }
