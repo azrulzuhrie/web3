@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div>
       <h1>Welcome to our Website</h1>
-      <p>Saya Arsyaq</p>
+      <p>Saya Azrul</p>
     </div>
   );
 }
